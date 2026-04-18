@@ -1,0 +1,13 @@
+patient_id,age,gender,disease,doctor,treatment_cost
+1,45,Male,Diabetes,Dr Shah,5000
+2,30,Female,Fever,Dr Patil,2000
+3,55,Male,Heart Disease,Dr Shah,20000
+4,22,Female,Flu,Dr Kulkarni,1500
+5,40,Male,Diabetes,Dr Shah,4500
+6,35,Female,Diabetes,Dr Patil,4800
+7,60,Male,Heart Disease,Dr Kulkarni,22000
+8,28,Female,Fever,Dr Shah,1800
+9,50,Male,Flu,Dr Patil,1600
+10,42,Female,Heart Disease,Dr Shah,19500
+11,33,Male,Fever,Dr Kulkarni,2100
+12,65,Female,Diabetes,Dr Kulkarni,5200
